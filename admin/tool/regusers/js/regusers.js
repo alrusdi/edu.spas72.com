@@ -58,7 +58,7 @@ $(function(){
 				pwd,
 				iru[0],
 				iru[1],
-				uname+'@<?php echo $_SERVER['HTTP_HOST']; ?>.ru',
+				uname+'@spas72.com',
 				city,
 				'RU',
 				cohort1
